@@ -1,3 +1,10 @@
+/*
+ * Project     : LSB-Steganography-project
+ * File        : decode.c
+ * Author      : Supriya Velishetty
+ * Description : Image Steganography using C programming and LSB technique.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -151,7 +158,7 @@ Status do_decoding(DecodeInfo *dncInfo)
 {
     char magic_string[10];
 
-    printf("---------------------------Decoding started ----------------------\n");
+    //printf("---------------------------Decoding started ----------------------\n");
 
     /* Open files */
     if (open_decode_files(dncInfo) == e_failure)

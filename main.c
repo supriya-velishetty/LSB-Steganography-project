@@ -1,3 +1,11 @@
+/*
+ * Project Name    : LSB-Steganography-project
+ * Student Name    : Supriya Velishetty
+ * Register Number : 25034wp_029
+ * Course          : Advanced Embedded Systems - Emertxe
+ * Description     : Image Steganography using C programming and LSB technique.
+ */
+
 #include <stdio.h>
 #include<string.h>
 #include "encode.h"

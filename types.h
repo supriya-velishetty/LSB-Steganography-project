@@ -1,3 +1,10 @@
+/*
+ * Project     : LSB-Steganography-project
+ * File        : types.h
+ * Author      : Supriya Velishetty
+ * Description : Image Steganography using C programming and LSB technique.
+ */
+
 #ifndef TYPES_H
 #define TYPES_H
 

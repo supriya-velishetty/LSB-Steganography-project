@@ -1,3 +1,10 @@
+/*
+ * Project     : LSB-Steganography-project
+ * File        : decode.h
+ * Author      : Supriya Velishetty
+ * Description : Image Steganography using C programming and LSB technique.
+ */
+
 #ifndef DECODE_H
 #define DECODE_H
 

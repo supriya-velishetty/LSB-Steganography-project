@@ -1,3 +1,10 @@
+/*
+ * Project     : LSB-Steganography-project
+ * File        : encode.c
+ * Author      : Supriya Velishetty
+ * Description : Image Steganography using C programming and LSB technique.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include"common.h"
